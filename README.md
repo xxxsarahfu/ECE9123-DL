@@ -20,7 +20,7 @@ Please note that you can change the GAN type by comment/uncomment `gan_type = 'v
 #### DCGAN
 ![gan](https://user-images.githubusercontent.com/26239373/118747298-c39cca80-b827-11eb-8e00-bc9a0cd95228.gif)
 
-Please look at the report for more details and analysis.
+Please look at the report for more results details and analysis. 
 
 ### References
 * Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. Generative Adversarial Networks. 2014.
