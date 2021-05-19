@@ -6,8 +6,8 @@
 This project utilizes two types of GAN-based models: vanilla GAN and DCGAN, to generate handwritten digits based on MNIST dataset. Analyis about parameters settings and a comparison of different version of GANs are proposed in the report.
 
 ### Execution
-1. Running on Google Colab, click at `vanillaGAN+DCGAN.ipynb` > open in colab.
-2. Running python code: download the file `vanillaGAN+DCGAN.py` 
+1. Running on Google Colab: click at `vanillaGAN+DCGAN.ipynb` > open in colab.
+2. Running python code: download the file `vanillaGAN+DCGAN.py`, and then
 ```
 python vanillaGAN+DCGAN.py
 ```
