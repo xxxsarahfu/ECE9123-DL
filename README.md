@@ -1,8 +1,9 @@
-# ECE9123-DL
+# Generate Handwritten Digits by GANs
+
+##### Final project for NYU ECEGY-9123 Deep Learning, May 2021 <br>
 ---
-*Final project for NYU ECEGY-9123 Deep Learning.*
-May 2021
-This project utilizes two types of GAN-based models: vanilla GAN and DCGAN, to generate handwritten digits based on MNIST dataset.
+
+This project utilizes two types of GAN-based models: vanilla GAN and DCGAN, to generate handwritten digits based on MNIST dataset. Analyis about parameters settings and a comparison of different version of GANs are proposed in the report.
 
 ### Execution
 1. Running on Google Colab, click at `vanillaGAN+DCGAN.ipynb` > open in colab.
